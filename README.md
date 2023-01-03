@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caden-coding
 - 👀 I’m a Computer Science Major who enjoys learning new learning new things!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently focusing on improving my skills in Python.
 - 📫 Contact me at cadenbcoding@gmail.com
 
 <!---
